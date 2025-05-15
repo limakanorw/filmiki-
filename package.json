@@ -4,8 +4,8 @@ export default function Home() {
       <h1>🎬 Spersonalizowane Filmiki</h1>
       <p>Witaj Anno! 🎉</p>
       <img 
-        src="/celebryta.jpg" 
-        alt="celebryta" 
+        src="/Kopia – Pure Water, Pure Life2.PNG" 
+        alt="Kopia – Pure Water, Pure Life2" 
         style={{ width: "200px", marginTop: "1rem" }} 
       />
       <p>Życzymy Ci wszystkiego najlepszego z okazji urodzin!</p>
