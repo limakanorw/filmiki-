@@ -5,7 +5,7 @@ export default function Home() {
       <p>Witaj Anno! 🎉</p>
       <img 
         src="/Kopia – Pure Water, Pure Life2.PNG" 
-        alt="Kopia – Pure Water, Pure Life2" 
+        alt="Kopia – Pure Water, Pure Life2.PNG" 
         style={{ width: "200px", marginTop: "1rem" }} 
       />
       <p>Życzymy Ci wszystkiego najlepszego z okazji urodzin!</p>
